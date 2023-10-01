@@ -2,7 +2,7 @@
 
 Here goes the description!
 
-##Subheader 
+## Subheader 
 
 Smart Text
-###Third tier
+### Third tier
